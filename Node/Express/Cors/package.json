@@ -1,8 +1,8 @@
 {
-  "name": "Express-Cors",
+  "name": "Cors",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "``` shell \r $ npm i core\r ```",
+  "main": "demo1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
